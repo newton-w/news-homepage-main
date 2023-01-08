@@ -4,3 +4,4 @@
 
 News homepage challenge by front end mentor
 
+solution url(https://newshomepage-main.netlify.app/)
